@@ -10,11 +10,14 @@ main_nav: true
 **전공** : 통계학 학/석사 전공
 **연구** : Computer Vision, Tabular data, 
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+통계학을 전공하였고 동원산업에서 비전에 대해 연구하였습니다.
+Classification 관련 프로젝트 1건,
+Object Detection 관련 프로젝트 3건,
+Multiview geometry 관련 프로젝트 1건,
+Segmentation 관련 프로젝트 1건
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+이 외 수요예측 및 이미지 분석 프로젝트 관련 프로젝트를 진행하였습니다.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
